@@ -1,6 +1,6 @@
 # SWASH-support
 
-Utilities for **pre-processing** (building computational/input grids, writing bathymetry) and **post-processing** (quick figures & movies) around [SWASH](https://www.sashahenk.nl/swash/) runs. The focus is small, composable MATLAB functions you can drop into your own workflow.
+Utilities for **pre-processing** (building computational/input grids, writing bathymetry) and **post-processing** (quick figures & movies) around [SWASH]([https://www.swash](https://swash.sourceforge.io)) runs. The focus is small, composable MATLAB functions you can drop into your own workflow.
 
 > Status: early-stage, but already usable for 2D regular grids (rectilinear or rotated). Expect breaking changes while the API stabilizes.
 
